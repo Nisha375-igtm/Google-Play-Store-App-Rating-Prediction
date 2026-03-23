@@ -1,5 +1,4 @@
-# Google-Play-Store-App-Rating-Prediction
-
+# Google-Play-Store-App-Rating-Prediction ( Jupyter Notebook )
 An end-to-end data analysis and machine learning project built in Jupyter Notebook to predict app ratings on the Google Play Store using real-world data.
 
 ## Dataset
